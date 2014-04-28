@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Kalimba 2056"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginBottom="36.8dp"
+        android:gravity="center"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginTop="40.2dp" />
+    <Button
+        android:id="@+id/Play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:gravity="center"
+        android:layout_marginBottom="17.0dp"
+        android:layout_marginTop="16.9dp"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_gravity="center" />
+    <Button
+        android:text="How to play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/HowToPlay"
+        android:gravity="center"
+        android:layout_marginBottom="13.4dp"
+        android:layout_marginTop="14.1dp"
+        android:layout_marginRight="0.0dp"
+        android:layout_gravity="center"
+        android:alpha="1" />
+</LinearLayout>

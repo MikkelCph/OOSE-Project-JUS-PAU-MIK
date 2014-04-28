@@ -1,0 +1,13 @@
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\bin\Debug\Sansula_Kalimba.dll
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\bin\Debug\Sansula_Kalimba.pdb
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\bin\Debug\Sansula_Kalimba.dll.mdb
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\bin\Debug\Sansula_Kalimba.Sansula_Kalimba.apk
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\bin\Debug\Sansula_Kalimba.Sansula_Kalimba-Signed.apk
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\Sansula_Kalimba.dll
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\Sansula_Kalimba.pdb
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\android\bin\Sansula_Kalimba.Sansula_Kalimba.apk
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\res\layout\main.xml
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\res\values\strings.xml
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\res\drawable\icon.png
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\R.cs.flag
+C:\Users\Justas\Documents\Projects\Sansula_Kalimba\Sansula_Kalimba\obj\Debug\uploadflags.txt

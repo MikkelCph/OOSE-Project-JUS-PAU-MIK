@@ -1,0 +1,11 @@
+﻿using System;
+namespace Sansula_Kalimba
+{
+	public class instrument
+	{
+		public instrument()
+		{
+		}
+	}
+}
+
